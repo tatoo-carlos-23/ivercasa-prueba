@@ -11,6 +11,7 @@ import { NoticiasComponent } from './ivercasa/noticias/noticias.component';
 import { PropiedadesDestacadasComponent } from './ivercasa/propiedades-destacadas/propiedades-destacadas.component';
 import { ValorarPropiedadComponent } from './ivercasa/valorar-propiedad/valorar-propiedad.component';
 import { HttpClientModule } from '@angular/common/http';
+import { MenuComponent } from './compartido/menu/menu.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { HttpClientModule } from '@angular/common/http';
     NavbarComponent,
     NoticiasComponent,
     PropiedadesDestacadasComponent,
-    ValorarPropiedadComponent
+    ValorarPropiedadComponent,
+    MenuComponent
   ],
   imports: [
     BrowserModule,

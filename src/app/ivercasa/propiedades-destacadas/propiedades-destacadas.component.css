@@ -112,3 +112,30 @@
   background-color: #232323;
   color: #fff;
 }
+
+@media (max-width: 700px) {
+  .ver-mas > label {
+    color: rgb(35, 35, 35);
+    font-size: 25px;
+    margin-top: 30px;
+    text-align: center;
+  }
+
+  .lista {
+    margin: 0px 4%;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-gap: 15px;
+  }
+
+  .item-lista {
+    width: 100%;
+  }
+
+  .sec-item {
+    display: inline-grid;
+    grid-template-columns: 100% 100%;
+    grid-gap: 4px;
+    margin: 4px 30px 4px 0px;
+  }
+}

@@ -1,0 +1,45 @@
+.menu-p {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #ffff;
+  width: 70%;
+  justify-content: left;
+  padding-left: 30px;
+  color: #232323;
+  box-shadow: 0 1rem 3rem rgba(88, 80, 80, 0.8) !important;
+}
+
+.iver-img {
+  margin: 45px 0px 20px 0px;
+  width: 70%;
+}
+
+.menu {
+  padding-left: 0px;
+}
+
+.redes {
+  border-top: 0.5px solid #232323;
+  padding-top: 30px;
+  width: 40%;
+}
+
+.menu > li {
+  display: inline;
+  padding: 10px 0px;
+}
+
+.puntos {
+  background-color: white;
+  margin: 0px 10px 0px 0px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 5px 8px 5px 8px;
+  border: 0.9px solid #232323;
+}
+
+.terminos {
+  font-size: 12px;
+  margin: 20px 0px;
+}

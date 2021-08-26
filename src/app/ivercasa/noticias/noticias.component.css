@@ -46,3 +46,42 @@
   color: #ffff;
   margin: 0px 15px 0px 0px;
 }
+
+@media (max-width: 700px) {
+  .noticias {
+    margin: 100px 0px 0px 0px;
+    background-image: url("../../../assets/IMAGENESPRUEBAS/responsive_casa_De_tus_suenos.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    height: auto;
+    padding: 0px 0px 30px 0px;
+  }
+
+  .noticias > div:nth-child(1) > p {
+    font-size: 18px;
+  }
+
+  .fila-n {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .noticias > div:nth-child(2) > input {
+    color: #232323;
+    background-color: #ffff;
+    padding: 14px 15px 14px 15px;
+  }
+
+  .noticias > div:nth-child(2) > button {
+    color: #ffff;
+    background-color: #232323;
+    padding: 10px 35px 10px 35px;
+    margin: 10px 10% 0px 10%;
+  }
+
+  .l-aceptar {
+    display: none;
+  }
+}

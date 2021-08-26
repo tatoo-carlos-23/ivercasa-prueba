@@ -91,3 +91,57 @@
   padding-left: 10px;
   font-size: 20px;
 }
+
+@media (max-width: 700px) {
+  .casa {
+    width: 100%;
+    height: 700px;
+    background-image: url("../../../assets/IMAGENESPRUEBAS/responsive_casa_De_tus_suenos.png");
+    color: white;
+  }
+
+  .casa-sub > label {
+    font-size: 34px;
+  }
+
+  .casa-sub {
+    width: 95%;
+    border-radius: 5px;
+    padding-top: 5px;
+  }
+
+  .casa-sub-sub {
+    width: 100%;
+  }
+
+  .tipo {
+    padding-left: 30px;
+  }
+
+  .buscar {
+    margin-top: 10px;
+    padding: 0px 30px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .buscar > select,
+  .buscar > input,
+  .buscar > button {
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .podemos {
+    padding-left: 30%;
+    margin-top: 100px;
+  }
+
+  .fas {
+    padding-left: 10px;
+    font-size: 15px;
+  }
+}

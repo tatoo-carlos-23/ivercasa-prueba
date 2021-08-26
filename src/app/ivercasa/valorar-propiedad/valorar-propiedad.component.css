@@ -85,3 +85,64 @@
   color: white;
   border: 2px solid white;
 }
+
+@media (max-width: 700px) {
+  .valorar > label:nth-child(1) {
+    font-size: 24px;
+  }
+
+  .valorar > label:nth-child(2) {
+    font-size: 16px;
+    text-align: center;
+    margin: 0px 6%;
+  }
+
+  .item1 {
+    grid-area: ciudad;
+    width: 100%;
+    margin: 15px 0px 0px 0px;
+  }
+  .item2 {
+    grid-area: numero;
+    width: 100%;
+  }
+  .item3 {
+    grid-area: departamento;
+    width: 100%;
+  }
+  .item4 {
+    grid-area: cero;
+    width: 100%;
+  }
+  .item5 {
+    grid-area: dormitorio;
+    width: 100%;
+  }
+  .item6 {
+    grid-area: ascensor;
+    width: 100%;
+  }
+  .item7 {
+    grid-area: volver;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+  }
+
+  .form {
+    margin: 40px 0px 0px 0px;
+    background-color: #232323;
+    border-radius: 10px;
+    opacity: 0.4;
+    width: 95%;
+    display: grid;
+    grid-template-areas:
+      "ciudad ciudad"
+      "numero numero"
+      "departamento cero"
+      "dormitorio ascensor"
+      "volver volver";
+    grid-gap: 20px;
+    padding: 30px;
+    box-sizing: border-box;
+  }
+}

@@ -150,3 +150,87 @@
   font-size: 18px;
   font-weight: bold;
 }
+
+@media (max-width: 700px) {
+  .footer {
+    background-color: #232323;
+    padding: 0px 5%;
+  }
+  .footer > div {
+    display: flex;
+    flex-direction: column !important;
+  }
+
+  /*  IMFORMACION */
+
+  .info1 {
+    grid-area: necesitas;
+    font-size: 22px;
+    color: #fff;
+  }
+
+  .info6 {
+    grid-area: condi;
+    text-align: justify;
+    font-size: 10px;
+  }
+
+  .informacion {
+    width: 96%;
+    display: grid;
+    grid-template-areas:
+      "necesitas"
+      "nombre"
+      "telefono"
+      "email"
+      "mensaje"
+      "condi"
+      "aceptar";
+    grid-gap: 20px;
+    padding: 30px;
+    text-align: center;
+    margin: 50px 1% 50px 1%;
+    box-sizing: border-box;
+  }
+
+  /*  IMFORMACION */
+
+  .google {
+    width: 100%;
+    margin: 50px 1% 50px 1%;
+    box-sizing: border-box;
+    padding: 30px;
+  }
+
+  .google > label {
+    font-size: 22px;
+  }
+
+  .google > ul {
+    font-size: 18px;
+  }
+
+  .google > img {
+    width: auto;
+  }
+
+  /** CONDICIONES ****/
+
+  .condiciones {
+    width: 100%;
+    display: grid;
+    grid-template-areas:
+      "terminos politica"
+      "ivercasa ivercasa"
+      "derechos derechos";
+    grid-gap: 10px;
+    padding: 30px 5px 30px 5px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .condiciones > a {
+    color: #ffff;
+    font-size: 10px;
+  }
+}

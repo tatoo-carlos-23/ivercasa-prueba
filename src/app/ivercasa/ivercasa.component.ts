@@ -1,3 +1,4 @@
+import { EmitirService } from './../service/emitir.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,9 +8,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class IvercasaComponent implements OnInit {
 
-  constructor() { }
+  constructor(private _servicio: EmitirService) { }
+
+  menu:boolean = false
 
   ngOnInit(): void {
+    this._servicio.disparar_menu.subscribe(e => {
+      this.menu = e;
+    })
   }
+
+
+  cerrar_menu(){
+    this._servicio.disparar_menu.emit(false)
+  }
+
+
 
 }

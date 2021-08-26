@@ -1,3 +1,4 @@
+import { EmitirService } from './../../service/emitir.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,13 +8,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
 
-  constructor() { }
+  constructor(
+    private _Service:EmitirService
+  ) { }
 
   ngOnInit(): void {
   }
 
   desplegar_menu(){
-    
+    this._Service.disparar_menu.emit(true)
   }
 
 }
+ 
