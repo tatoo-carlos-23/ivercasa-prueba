@@ -1,1 +1,31 @@
-<p>footer works!</p>
+<div class="footer columna">
+    <div class="fila">
+
+        <div class="informacion">
+            <label class="info1">¿Necesitas más información?</label>
+            <input placeholder="Nombre" type="text" class="info2 btn-l ibx">
+            <input type="text" placeholder="Teléfono" class="info3 btn-l ibx">
+            <input type="text" placeholder="Email" class="btn-l ibx info4">
+            <textarea rows="5" class="info5 btn-l ibx" placeholder="Mensaje"></textarea>
+            <label class="info6"><input type="checkbox">Al presionar el botón “ENVIAR” confirmas que has leído, entendido y aceptado las condiciones de nuestra Política de Privacidad mostradas en este LINK</label>
+            <button class="info7 btn-l">Enviar</button>
+        </div>
+
+        <div class="google columna">
+            <label><strong>IVERCASA</strong> Inmobiliaria</label>
+            <ul style="list-style: none; padding-left: 0px;">
+                <li *ngFor="let x of lista">{{x.nombre}}</li>
+            </ul>
+            <button class="btn-l"><i class="fab fa-google"></i> Ver en Google maps</button>
+            <img src="../../../assets/IMAGENESPRUEBAS/Grupo 226.svg" alt="IVERCASA">
+            <div class="fila">
+                <button class="btn-l"><i class="fab fa-facebook-square"></i></button>
+                <button class="btn-l"><i class="fab fa-instagram"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <div class="condiciones centrar">
+        <a *ngFor="let c of condic" [class]="c.clase">{{c.nombre}}</a>
+    </div>
+</div>
