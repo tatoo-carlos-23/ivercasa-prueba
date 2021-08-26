@@ -1,0 +1,37 @@
+<div class="propiedades">
+    <div class="columna ver-mas centrar">
+        <label>Propiedades <strong>Destacadas</strong></label>
+        <button class="btn-l x">
+            Ver más
+        </button>
+    </div>
+
+    <div class="lista">
+        <div class="item-lista" *ngFor="let x of datos">
+            <img [src]="x.img" [alt]="x.des">
+            <div>
+                <div class="columna datos">
+                    <label>
+                        <span>{{x.soles}}</span>
+                        <span>{{x.dolares}}</span>
+                    </label>
+                    <label>{{x.ciudad}}</label>
+                    <label>{{x.calle}}</label>
+                    <label>{{x.descripcion}}</label>
+                </div>
+                <div class="sec-item" *ngFor="let d of x.items">
+                    <span><i [class]="d.iconpo"></i>{{d.nombre}}</span>
+                </div>
+            </div>
+
+            <div class="botones">
+                <button class="btn-l">
+                    <i *ngIf="x.valor == true" class="fas fa-heart red"></i>
+                    <i *ngIf="x.valor == false" class="far fa-heart"></i>
+                </button>
+                <button class="btn-l">Contactar</button>
+            </div>
+
+        </div>
+    </div>
+</div>

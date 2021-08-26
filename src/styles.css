@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Overpass", sans-serif;
+}
+
+.fila {
+  display: flex;
+  flex-direction: row;
+}
+
+.columna {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-l {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.centrar {
+  align-items: center;
+  justify-content: center;
+}

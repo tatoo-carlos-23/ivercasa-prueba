@@ -1,0 +1,48 @@
+.noticias {
+  margin: 40px 0px 0px 0px;
+  background-image: url("../../../assets/IMAGENESPRUEBAS/noticias.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  height: 400px;
+}
+
+.noticias > div:nth-child(1) > p {
+  font-size: 28px;
+  color: #ffff;
+}
+
+.x {
+  font-size: 18px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.fila-n {
+  display: flex;
+  flex-direction: row;
+}
+
+.noticias > div:nth-child(2) > input {
+  color: #232323;
+  background-color: #ffff;
+  padding: 10px 35px 10px 35px;
+}
+
+.noticias > div:nth-child(2) > button {
+  color: #ffff;
+  background-color: #232323;
+  padding: 10px 35px 10px 35px;
+}
+
+.l-aceptar {
+  font-size: 18px;
+  color: #ffff;
+  margin: 50px;
+}
+
+.i-aceptar {
+  font-size: 22px;
+  color: #ffff;
+  margin: 0px 15px 0px 0px;
+}

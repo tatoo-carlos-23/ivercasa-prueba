@@ -1,0 +1,114 @@
+.ver-mas {
+  color: white;
+  margin: 4% 10% 0px 10%;
+  background: url("../../../assets/IMAGENESPRUEBAS/propiedades-destacadas.svg");
+}
+.ver-mas > label {
+  color: rgb(35, 35, 35);
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+.ver-mas > button {
+  color: #fff;
+  background-color: rgb(35, 35, 35);
+  border-radius: 5px;
+}
+
+.x {
+  font-size: 16px;
+  padding: 8px 35px;
+  margin: 30px 0px;
+}
+
+.lista {
+  margin: 0px 10%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 15px;
+}
+
+.item-lista {
+  width: 390px;
+}
+
+.item-lista > img {
+  width: 100%;
+  height: 280px;
+}
+
+.red {
+  color: #be0606;
+}
+
+.item-lista > div:nth-child(2) {
+  border-left: 2px solid #f7f7f7;
+  border-right: 2px solid #f7f7f7;
+  padding: 0px 20px 0px 20px;
+}
+
+.datos > label:nth-child(1) {
+  font-size: 20px;
+  color: #232323;
+  margin: 15px 0px 15px 0px;
+}
+
+.datos > label:nth-child(2) {
+  font-size: 16px;
+  color: #c6c6c6;
+  margin: 0px 0px 3px 0px;
+  font-weight: bolder;
+}
+
+.datos > label:nth-child(3) {
+  font-size: 16px;
+  color: #232323;
+  margin: 3px 0px 3px 0px;
+  font-weight: bolder;
+}
+
+.datos > label:nth-child(4) {
+  font-size: 11px;
+  color: #232323;
+  margin: 3px 0px 15px 0px;
+}
+
+.sec-item {
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 4px;
+  margin: 0px 0px 20px 0px;
+}
+
+.sec-item > span {
+  font-size: 12px;
+  font-weight: bolder;
+  color: #9e9e9e;
+}
+
+.sec-item > span > i {
+  padding: 0px 3px 0px 0px;
+}
+
+.botones {
+  padding: 10px;
+  text-align: right;
+  background-color: #f7f7f7;
+  border-radius: 0px 0px 5px 5px;
+}
+
+.botones > button:nth-child(1) {
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #232323;
+  margin: 0px 5px 0px 0px;
+}
+
+.botones > button:nth-child(2) {
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #232323;
+  color: #fff;
+}

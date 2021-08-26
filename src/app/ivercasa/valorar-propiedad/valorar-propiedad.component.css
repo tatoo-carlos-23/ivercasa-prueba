@@ -1,0 +1,87 @@
+.valorar {
+  margin-top: 100px;
+  height: 380px;
+  width: 100%;
+  background: transparent
+    url("../../../assets/IMAGENESPRUEBAS/valorarpropiedad.png") 0% 0% no-repeat
+    padding-box;
+  background-size: 100% 380px;
+}
+
+.valorar > label:nth-child(1) {
+  color: #000000;
+  font-size: 28px;
+}
+
+.valorar > label:nth-child(2) {
+  color: #000000;
+  font-size: 18px;
+  margin: 12px 0px 0px 0px;
+}
+
+.item1 {
+  grid-area: ciudad;
+  width: 100%;
+}
+.item2 {
+  grid-area: numero;
+  width: 100%;
+}
+.item3 {
+  grid-area: departamento;
+  width: 300px;
+}
+.item4 {
+  grid-area: cero;
+  width: 70px;
+}
+.item5 {
+  grid-area: dormitorio;
+  width: 100%;
+}
+.item6 {
+  grid-area: ascensor;
+  width: 100%;
+}
+.item7 {
+  grid-area: volver;
+  width: 50%;
+  margin: 20px 210px 0px 210px;
+}
+
+.form {
+  margin: 40px 0px 0px 0px;
+  background-color: #232323;
+  border-radius: 10px;
+  opacity: 0.4;
+  width: 35%;
+  display: grid;
+  grid-template-areas:
+    "ciudad ciudad numero numero"
+    "departamento cero dormitorio ascensor"
+    "volver volver volver volver";
+  grid-gap: 20px;
+  padding: 30px;
+}
+
+.x-btn {
+  font-size: 18px;
+  padding: 15px;
+  background-color: #ffff;
+  box-sizing: border-box !important;
+  border-radius: 5px;
+}
+
+.x::placeholder {
+  color: #232323;
+}
+
+.btn {
+  font-size: 28px;
+  padding: 15px;
+  background-color: #232323;
+  box-sizing: border-box !important;
+  border-radius: 5px;
+  color: white;
+  border: 2px solid white;
+}

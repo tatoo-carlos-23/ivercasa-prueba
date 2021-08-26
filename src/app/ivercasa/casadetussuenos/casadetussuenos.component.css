@@ -1,0 +1,93 @@
+.casa {
+  width: 100%;
+  height: 600px;
+  background-image: url("../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+
+.casa-sub {
+  width: 965px;
+  border-radius: 5px;
+  background-color: rgba(35, 35, 35, 0.33);
+  text-align: center;
+  padding-top: 10px;
+}
+
+.casa-sub > label {
+  font-size: 30px;
+}
+
+.casa-sub-sub {
+  margin-top: 10px;
+  padding-bottom: 30px;
+  width: 965px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.tipo {
+  padding-left: 50px;
+  text-align: left;
+}
+.x {
+  font-size: 18px;
+  padding: 8px 25px;
+  margin: 0px 2px;
+}
+
+.tipo > button:nth-child(1) {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: rgb(35, 35, 35);
+  color: white;
+}
+
+.buscar {
+  margin-top: 10px;
+  padding: 0px 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+.buscar > select,
+.buscar > input,
+.buscar > button {
+  border-radius: 5px;
+  padding: 10px 10px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.buscar > select {
+  background-color: #e7e7e7;
+}
+
+.buscar > input {
+  background-color: #e7e7e7;
+  margin: 0px 5px;
+}
+
+.buscar > button {
+  background-color: rgb(35, 35, 35);
+  color: white;
+}
+
+.podemos {
+  padding-left: 80%;
+  margin-top: 50px;
+}
+
+.podemos > button {
+  border-radius: 5px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: white;
+  color: rgb(35, 35, 35);
+}
+
+.fas {
+  padding-left: 10px;
+  font-size: 20px;
+}

@@ -1,0 +1,12 @@
+<div class="valorar columna centrar">
+    <label>Valoremos su <strong>propiedad</strong></label>
+    <label>¿Quiere conocer el precio de mercado actual de su propiedad?</label>
+
+    <div class="form">
+        <input type="text" *ngFor="let x of datos_in"  [class]="x.clase" [placeholder]="x.vista">
+        <select class="btn-l item3 x-btn">
+            <option>Departamento</option>
+        </select>
+        <button class="btn-l item7 btn">Valor</button>
+    </div>
+</div>
