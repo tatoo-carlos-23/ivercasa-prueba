@@ -16,24 +16,30 @@ y tambien con 2 servicios los cuales son utilizados para emitir variables y uno 
 hacer peticiones http.
 
 --> Componente Sistema{
-->componente menu
-->componente navbar-x
-->modulo
-->rutas
+
+    - componente menu,
+    - componente navbar-x,
+    - modulo,
+    - rutas,
+
 }
 
 --> componente inicio{
-->componente casadetususenos
-->componente foote
-->componente noticias
-->componente propiedad-destacada
-->componente valor-propiedad
-->modulo
-->rutas
+
+    - componente casadetususenos,
+    - componente foote,
+    - componente noticias,
+    - componente propiedad-destacada,
+    - componente valor-propiedad,
+    - modulo,
+    - rutas,
+
 }
 
 --> componente propiedad-destacadas{
-componentes en proceso
-->modulo
-->rutas
+
+    - componentes en proceso
+    - modulo,
+    - rutas,
+
 }

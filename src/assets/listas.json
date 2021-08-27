@@ -447,6 +447,538 @@
                 }
             ],
             "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
+        },
+        {
+            "img": "../../../assets/IMAGENESPRUEBAS/photo-1489171078254-c3365d6e359f@2x.png",
+            "des": "IMMAGEN X",
+            "soles": "S/ 4,100",
+            "dolares": "(USD) $1900",
+            "ciudad": "Miraflores Lima",
+            "calle": "Calle pisagua",
+            "descripcion": "Descripción: Alquilo lindo departamento simplemente el texto de relleno.",
+            "items": [
+                {
+                    "nombre": "3 dormitorios",
+                    "icono": "fas fa-bed"
+                },
+                {
+                    "nombre": "2 baños",
+                    "icono": "fas fa-restroom"
+                },
+                {
+                    "nombre": "6 estacionar",
+                    "icono": "fas fa-car"
+                },
+                {
+                    "nombre": "500 m2",
+                    "icono": "fas fa-rule-horizontal"
+                }
+            ],
+            "valor": false
         }
     ]
 }
