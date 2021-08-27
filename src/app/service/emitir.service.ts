@@ -6,7 +6,7 @@ import { EventEmitter, Injectable, Output } from '@angular/core';
 export class EmitirService {
   @Output() disparar_menu:EventEmitter<any> = new EventEmitter();
 
-  
+   
   constructor(
 
   ) { }

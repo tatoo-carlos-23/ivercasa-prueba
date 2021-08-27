@@ -1,13 +1,12 @@
-import { IvercasaService } from './../../service/ivercasa.service';
 import { Component, OnInit } from '@angular/core';
+import { IvercasaService } from 'src/app/service/ivercasa.service';
 
 @Component({
-  selector: 'app-propiedades-destacadas',
-  templateUrl: './propiedades-destacadas.component.html',
-  styleUrls: ['./propiedades-destacadas.component.css']
+  selector: 'app-propiedad-destacada',
+  templateUrl: './propiedad-destacada.component.html',
+  styleUrls: ['./propiedad-destacada.component.css']
 })
-export class PropiedadesDestacadasComponent implements OnInit {
-
+export class PropiedadDestacadaComponent implements OnInit {
   constructor(
     private _service:IvercasaService
   ) { }
@@ -38,5 +37,5 @@ export class PropiedadesDestacadasComponent implements OnInit {
   }
 
 
-
 }
+ 

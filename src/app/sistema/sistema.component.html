@@ -1,0 +1,6 @@
+<app-menu *ngIf="menu == true"></app-menu>
+<app-navbar-x  *ngIf="menu == false"></app-navbar-x>
+<div  (click)="cerrar_menu()">
+    <router-outlet></router-outlet>
+</div>
+ 

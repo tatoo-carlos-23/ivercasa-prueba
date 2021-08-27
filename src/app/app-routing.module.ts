@@ -1,11 +1,12 @@
-import { IvercasaComponent } from './ivercasa/ivercasa.component';
+
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   {
     path:'',
-    component:IvercasaComponent
+    //component:IvercasaComponent
+    loadChildren: ()=>import('./sistema/sistema.module').then(sistema => sistema.SistemaModule)
   }
 ];
 

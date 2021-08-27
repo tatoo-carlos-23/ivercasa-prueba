@@ -1,12 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-valorar-propiedad',
-  templateUrl: './valorar-propiedad.component.html',
-  styleUrls: ['./valorar-propiedad.component.css']
+  selector: 'app-valor-propiedad',
+  templateUrl: './valor-propiedad.component.html',
+  styleUrls: ['./valor-propiedad.component.css']
 })
-export class ValorarPropiedadComponent implements OnInit {
-
+export class ValorPropiedadComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
@@ -21,3 +20,4 @@ export class ValorarPropiedadComponent implements OnInit {
   ]
 
 }
+ 

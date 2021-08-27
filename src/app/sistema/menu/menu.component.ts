@@ -1,5 +1,5 @@
-import { EmitirService } from './../../service/emitir.service';
 import { Component, OnInit } from '@angular/core';
+import { EmitirService } from 'src/app/service/emitir.service';
 
 @Component({
   selector: 'app-menu',
